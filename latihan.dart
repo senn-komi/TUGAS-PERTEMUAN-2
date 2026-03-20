@@ -7,6 +7,7 @@ void cekKelulusan(String nama, int nilai) {
 }
 
 void main() {
-  cekKelulusan("Nameira", 80);
-  cekKelulusan("Ubaid", 70);
+  cekKelulusan("Nameira", 94);
+  cekKelulusan("Ubaid", 72);
+  cekKelulusan("Saskia", 77);
 }
